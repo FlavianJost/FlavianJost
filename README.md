@@ -33,8 +33,8 @@
 
 ## 📫 Me contacter
 - Email : **flavian59.jost@gmail.com**  
-- LinkedIn : *(https://www.linkedin.com/in/flavian-jost-b00b231a3/)*  
-- GitHub : [github.com/tonpseudo](https://github.com/FlavianJost)
+- LinkedIn : [Flavian Jost](https://www.linkedin.com/in/flavian-jost-b00b231a3/)
+- GitHub : [github.com/FlavianJost](https://github.com/FlavianJost)
 
 ---
 
